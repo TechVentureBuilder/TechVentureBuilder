@@ -31,7 +31,6 @@ We build MVPs.
 <tr><td><b>Natural Language Processing </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc" target="_blank">Click Here for NLP</a></td><td><a href="https://github.com/srivatsan88/Natural-Language-Processing" target="_blank">NLP Repo</a></td></tr>
 
 </table>
-<br/>
 
 ### Looking to build your data science portfolio.. Check below
 
