@@ -4,7 +4,7 @@ We build MVPs.
 
 - 🌱 We help business thrive through [TechVentureBuilder](https://venture-builder.netlify.app)
 - 📫 Reach us via [email](mailto:techventurebuilder@gmail.com)
-- :round_pushpin: We live in Stuttgart, Germany
+- :round_pushpin: We live in Germany
 - ⚡ Fun fact: We speak English and German
 
 
