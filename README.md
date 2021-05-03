@@ -33,7 +33,6 @@ We build MVPs.
 </table>
 <br/>
 
-
 ### Looking to build your data science portfolio.. Check below
 
 <table width="500" border="1">
