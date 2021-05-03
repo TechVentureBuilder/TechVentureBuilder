@@ -9,7 +9,6 @@ We build MVPs.
 
 
 ### List of repositories and youtube videos about Data Science Courses and Content you should follow 👋
-<br/>
 <table width="500" border="1">
 <tr><th bgcolor="yellow">Course Name</th><th>Course URL</th><th>GitHub Repo</th></tr>
 <tr><td><b>Google Cloud AI </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK" target="_blank">Click Here for GCP AI</a></td><td><a href="https://github.com/srivatsan88/google_cloud_AI_ML" target="_blank">GCP AI Repo</a></td></tr>
