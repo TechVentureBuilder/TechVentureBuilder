@@ -11,9 +11,9 @@ Skills: Python, JavaScript
 - 📫 Reach us via [email](mailto:techventurebuilder@gmail.com)
 - ⚡ Fun fact: We speak your language
 
-
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TechVentureBuilder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg' alt='Website' height='40'>](https://venture-builder.netlify.app)  
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TechVentureBuilder&show_icons=true)  
