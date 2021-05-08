@@ -1,11 +1,22 @@
 ### Hi there, 👋, we are TechVentureBuilder,
+#### Math & Data Science enthusiasm
 
-We build MVPs.
+Skills: Python, JavaScript
 
+- 🔭 We build MVPs 
 - 🌱 We help business thrive through [TechVentureBuilder](https://venture-builder.netlify.app)
+- 👯 We are looking to collaborate on MVPs 
+- 🤔 We are looking for help with Optimizing my code 
+- 💬 Ask us about Finance, Machine Learning, AI 
 - 📫 Reach us via [email](mailto:techventurebuilder@gmail.com)
-- :round_pushpin: We live in Germany
-- ⚡ Fun fact: We speak English and German
+- ⚡ Fun fact: We speak your language
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TechVentureBuilder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg' alt='Website' height='40'>](https://venture-builder.netlify.app)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TechVentureBuilder&show_icons=true)  
 
 
 ### List of repositories and youtube videos about Data Science Courses and Content you should follow 👋
