@@ -1,13 +1,13 @@
 ### Hi there, 👋, we are TechVentureBuilder,
-#### Math & Data Science enthusiasm
+#### Math & Data Science enthusiasms
 
 Skills: Python, JavaScript
 
-- 🔭 We build MVPs 
+- 🔭 We build MVP 
 - 🌱 We help business thrive through [TechVentureBuilder](https://venture-builder.netlify.app)
 - 👯 We are looking to collaborate on MVPs 
-- 🤔 We are looking for help with Optimizing my code 
-- 💬 Ask us about Finance, Machine Learning, AI 
+- 🤔 We are looking for help with optimizing our code 
+- 💬 Ask us about MVT, MVP, MVB 
 - 📫 Reach us via [email](mailto:techventurebuilder@gmail.com)
 - ⚡ Fun fact: We speak your language
 
