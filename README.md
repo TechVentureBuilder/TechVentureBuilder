@@ -3,7 +3,7 @@
 
 Skills: Python, JavaScript
 
-- 🔭 We build MVP 
+- 🔭 We build MVPs
 - 🌱 We help business thrive through [TechVentureBuilder](https://venture-builder.netlify.app)
 - 👯 We are looking to collaborate on MVPs 
 - 🤔 We are looking for help with optimizing our code 
