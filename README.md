@@ -1,5 +1,5 @@
 ### Hi there, 👋, we are TechVentureBuilder,
-#### Math & Data Science enthusiasms
+#### Math & Data Science enthusiasm
 
 Skills: Python, JavaScript
 
