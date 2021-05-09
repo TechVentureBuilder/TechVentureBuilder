@@ -13,11 +13,11 @@ Skills: Python, JavaScript
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TechVentureBuilder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg' alt='Website' height='40'>](https://venture-builder.netlify.app)  
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TechVentureBuilder&show_icons=true)  
-
+-->
 
 ### List of repositories and youtube videos about Data Science Courses and Content you should follow 👋
 <table width="500" border="1">
