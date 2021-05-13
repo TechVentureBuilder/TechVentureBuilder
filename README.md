@@ -17,7 +17,7 @@ Skills: Python, JavaScript
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TechVentureBuilder&show_icons=true)  
--->
+
 
 ### List of repositories and youtube videos about Data Science Courses and Content you should follow 👋
 <table width="500" border="1">
@@ -69,7 +69,7 @@ Skills: Python, JavaScript
 <tr><td><b>Machine Learning on GPU </b></td> <td><a href="https://www.youtube.com/playlist?list=PL3N9eeOlCrP7OURN_5tlwPJwF3v3ZXqP2" target="_blank">Click Here</a></td></tr>
 
 </table>
-
+-->
 
 
 <!--
