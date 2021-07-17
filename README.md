@@ -11,6 +11,13 @@ Skills: Python, JavaScript
 - 📫 Reach us via [email](mailto:techventurebuilder@gmail.com)
 - ⚡ Fun fact: We speak your language
 
+### GitHub Stats
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=TechVentureBuilder&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder&theme=merko&hide=php,css&layout=compact)](https://github.com/TechVentureBuilder/github-readme-stats)
+
+
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TechVentureBuilder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg' alt='Website' height='40'>](https://venture-builder.netlify.app)  
 
