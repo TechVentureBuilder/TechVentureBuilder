@@ -78,7 +78,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -106,7 +105,7 @@
 <!--
 [![Contact](https://img.shields.io/badge/techventurebuilder@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:techventurebuilder@gmail.com)
 -->
-[![Twitter](https://img.shields.io/badge/@PhilosophyBot7-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/PhilosophyBot7)
+[![Twitter](https://img.shields.io/badge/@PhilosophyBot7-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PhilosophyBot7)
 <!--
 [![Hasnode](https://img.shields.io/badge/blog.techventurebuilder.tech-black?style=flat-square&logo=hashnode&logoColor=2962ff)](https://blog.techventurebuilder.tech)
 -->
