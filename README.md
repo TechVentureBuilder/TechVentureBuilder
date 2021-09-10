@@ -1,11 +1,84 @@
+
+<p align="center"><samp><b> Hi there! 👋> </b></samp></p>
+<p align="center"><h1 align="center"><samp> We are TechVentureBuilder </samp></h1></p>
+<p align="center"><h4 align="center"><samp> Math & Data Science enthusiasm </samp></h4></p>
+<br>
+<div>
+
+
+Skills: Python, JavaScript
+
+- 🔭 We build MVP
+- 🌱 We help teams, products and business thrive [TechVentureBuilder](https://venture-builder.netlify.app)
+- 👯 We are looking to collaborate on MVT, MVP, MVB
+- 🤔 We are looking for help with optimizing our code 
+- ✍🏻 We write about HR, technology and business
+- 🥇 We are Open Source Enthusiasts
+- 💬 Ask us about MVT, MVP, MVB 
+- 📫 Reach us via [email](mailto:techventurebuilder@gmail.com)
+- ⚡ Fun fact: We speak your language
+</div>
+
+##
+
+<h4><b><samp>Programming Languages</samp></b></h4>
+
+![Python](https://img.shields.io/badge/Python-2bb7f6?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+<h4><b><samp>Tools and Technologies</samp></b></h4>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-443a86?style=flat-square&logo=Heroku&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-62b059?style=flat-square&logo=Node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/Graphql-db33a3?style=flat-square&logo=Graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ba94e?style=flat-square&logo=MongoDB&logoColor=white)
+![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white)
+![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=LaTex&logoColor=white)
+
+##
+
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+<br>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
+ </p>
+
+</details>
+
+##
+
+<h4><b><samp>Connect with me:</samp></b></h4>
+
+[![Contact](https://img.shields.io/badge/techventurebuilder@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:techventurebuilder@gmail.com)
+
+[![Twitter](https://img.shields.io/badge/@__SharmaHimanshu-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_SharmaHimanshu)
+[![Hasnode](https://img.shields.io/badge/blog.himanshusharma.tech-black?style=flat-square&logo=hashnode&logoColor=2962ff)](https://blog.techventurebuilder)
+
+![](https://visitor-badge.glitch.me/badge?page_id=TechVentureBuilder.TechVentureBuilder)
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
 ### Hi there, 👋, we are TechVentureBuilder,
 #### Math & Data Science enthusiasm
 
 Skills: Python, JavaScript
 
 - 🔭 We build MVPs
-- 🌱 We help business thrive through [TechVentureBuilder](https://venture-builder.netlify.app)
-- 👯 We are looking to collaborate on MVPs 
+- 🌱 We help teams, products and business thrive [TechVentureBuilder](https://venture-builder.netlify.app)
+- 👯 We are looking to collaborate on MVT, MVP, MVB
 - 🤔 We are looking for help with optimizing our code 
 - 💬 Ask us about MVT, MVP, MVB 
 - 📫 Reach us via [email](mailto:techventurebuilder@gmail.com)
@@ -16,7 +89,7 @@ Skills: Python, JavaScript
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=TechVentureBuilder&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder&theme=merko&hide=php,css&layout=compact)](https://github.com/TechVentureBuilder/github-readme-stats)
-
+-->
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TechVentureBuilder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg' alt='Website' height='40'>](https://venture-builder.netlify.app)  
@@ -93,3 +166,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+	
+	
+	
