@@ -29,7 +29,7 @@
 <h4><b><samp>Tools and Technologies</samp></b></h4>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+[![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 ![Heroku](https://img.shields.io/badge/Heroku-443a86?style=flat-square&logo=Heroku&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-62b059?style=flat-square&logo=Node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/Graphql-db33a3?style=flat-square&logo=Graphql&logoColor=white)
