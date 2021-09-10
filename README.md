@@ -6,7 +6,7 @@
 <div>
 
 
-Our Mission:
+<h4><b><samp>Mission</samp></b></h4>
 
 - 🔭 We build MVP
 - 🌱 We help teams, products and business thrive [TechVentureBuilder](https://venture-builder.netlify.app)
