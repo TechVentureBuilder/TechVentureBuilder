@@ -41,7 +41,7 @@
 ##
 
 <details>
-  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+  <summary><b><samp>📈 Our GitHub Stats</samp></b></summary>
 <br>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshusharma89&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
  </p>
@@ -50,7 +50,7 @@
 
 ##
 
-<h4><b><samp>Connect with me:</samp></b></h4>
+<h4><b><samp>Connect with us:</samp></b></h4>
 
 [![Contact](https://img.shields.io/badge/techventurebuilder@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:techventurebuilder@gmail.com)
 
