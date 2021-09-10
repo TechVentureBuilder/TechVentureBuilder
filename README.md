@@ -11,7 +11,7 @@
 - 🔭 We build MVP
 - 🌱 We help teams, products and business thrive [TechVentureBuilder](https://venture-builder.netlify.app)
 - 👯 We are looking to collaborate on MVT, MVP, MVB
-- 🤔 We are looking for help with optimizing our code 
+- 🤔 We are looking for help with further developing our code 
 - ✍🏻 We write about HR, technology and business
 - 🥇 We are Open Source Enthusiasts
 - 💬 Ask us about MVT, MVP, MVB 
