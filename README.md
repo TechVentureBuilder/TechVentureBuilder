@@ -6,7 +6,7 @@
 <div>
 
 
-Skills: Python, JavaScript
+Our Mission:
 
 - 🔭 We build MVP
 - 🌱 We help teams, products and business thrive [TechVentureBuilder](https://venture-builder.netlify.app)
