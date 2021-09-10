@@ -55,7 +55,7 @@ Skills: Python, JavaScript
 [![Contact](https://img.shields.io/badge/techventurebuilder@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:techventurebuilder@gmail.com)
 
 [![Twitter](https://img.shields.io/badge/@PhilosophyBot7-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/PhilosophyBot7)
-[![Hasnode](https://img.shields.io/badge/blog.himanshusharma.tech-black?style=flat-square&logo=hashnode&logoColor=2962ff)](https://blog.techventurebuilder)
+[![Hasnode](https://img.shields.io/badge/blog.techventurebuilder-black?style=flat-square&logo=hashnode&logoColor=2962ff)](https://blog.techventurebuilder)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TechVentureBuilder.TechVentureBuilder)
 
