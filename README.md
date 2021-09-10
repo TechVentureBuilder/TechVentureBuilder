@@ -19,6 +19,8 @@
 - ⚡ Fun fact: We speak your language
 </div>
 
+![](https://visitor-badge.glitch.me/badge?page_id=TechVentureBuilder.TechVentureBuilder)
+
 ##
 
 <h4><b><samp>Programming Languages</samp></b></h4>
@@ -109,7 +111,6 @@
 <!--
 [![Hasnode](https://img.shields.io/badge/blog.techventurebuilder.tech-black?style=flat-square&logo=hashnode&logoColor=2962ff)](https://blog.techventurebuilder.tech)
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=TechVentureBuilder.TechVentureBuilder)
 
 
 
