@@ -1,5 +1,5 @@
 
-<p align="center"><samp><b> Hi there! 👋> </b></samp></p>
+<p align="center"><samp><b> Hi there! 👋 </b></samp></p>
 <p align="center"><h1 align="center"><samp> We are TechVentureBuilder </samp></h1></p>
 <p align="center"><h4 align="center"><samp> Math & Data Science enthusiasm </samp></h4></p>
 <br>
