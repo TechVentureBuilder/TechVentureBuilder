@@ -99,6 +99,13 @@
 <br>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder&hide_langs_below=1&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=TechVentureBuilder&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424"/>
  </p>
+	
+<div>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=TechVentureBuilder&theme=radical")"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechVentureBuilder&hide=jupyter%20notebook,css,html&langs_count=4&layout=compact&theme=radical&show_icons=true">
+</div> 
+<div>
+ <img width="91%" src="https://activity-graph.herokuapp.com/graph?username=TechVentureBuilder&theme=github&area=true">
+ </div>	
 
 </details>
 
