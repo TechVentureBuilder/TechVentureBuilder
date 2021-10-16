@@ -118,7 +118,7 @@
 <!--
 [![Contact](https://img.shields.io/badge/techventurebuilder@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:techventurebuilder@gmail.com)
 -->
-[![Twitter](https://img.shields.io/badge/@PhilosophyBot7-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/PhilosophyBot7)
+[![Twitter](https://img.shields.io/badge/@venture_abc-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/venture_abc)
 <!--
 [![Hasnode](https://img.shields.io/badge/blog.techventurebuilder.tech-black?style=flat-square&logo=hashnode&logoColor=2962ff)](https://blog.techventurebuilder.tech)
 -->
