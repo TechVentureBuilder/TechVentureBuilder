@@ -21,6 +21,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=TechVentureBuilder.TechVentureBuilder)
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=TechVentureBuilder&repo=github-visitors-badge&countColor=%237B1E7A)
+
 ##
 
 <h4><b><samp>Programming Languages</samp></b></h4>
