@@ -9,7 +9,7 @@
 <h4><b><samp>Mission</samp></b></h4>
 
 - 🔭 We build MVP
-- 🌱 We help teams, products and business thrive [TechVentureBuilder](https://venture-builder.netlify.app)
+- 🌱 We help teams, products and business thrive at [TechVentureBuilder](https://venture-builder.netlify.app)
 - 👯 We are looking to collaborate on MVT, MVP, MVB
 - 🤔 We are looking for help with further developing our code 
 - ✍🏻 We write about HR, technology and business
