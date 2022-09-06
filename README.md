@@ -23,6 +23,11 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=TechVentureBuilder&repo=github-visitors-badge&countColor=%237B1E7A)
 
+[![TechVentureBuilder's metrics](./github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+![TechVentureBuilder's github stats](https://github-readme-stats.duskmoon.vercel.app/api?username=TechVentureBuilder&theme=tokyonight&show_icons=true)
+
+
 ##
 
 <h4><b><samp>Programming Languages</samp></b></h4>
