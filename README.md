@@ -237,4 +237,5 @@ Here are some ideas to get you started:
 	
 	
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=TechVentureBuilder/TechVentureBuilder&type=Date)](https://star-history.com/#TechVentureBuilder/TechVentureBuilder&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=acheong08/EdgeGPT&type=Date)](https://star-history.com/#acheong08/EdgeGPT&Date)
+
