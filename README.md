@@ -237,9 +237,12 @@ Here are some ideas to get you started:
 	
 	
 ## Impressive Star History
-![Visit Repo](https://github.com/acheong08/EdgeGPT/)											   
+![Visit Repo](https://github.com/acheong08/EdgeGPT/)	
+										   
 [![Star History Chart](https://api.star-history.com/svg?repos=acheong08/EdgeGPT&type=Date)](https://star-history.com/#acheong08/EdgeGPT&Date)
 
+
 ![Visit Repo](https://github.com/ciur/papermerge/)
+
 [![Star History Chart](https://api.star-history.com/svg?repos=ciur/papermerge&type=Date)](https://star-history.com/#ciur/papermerge&Date)
 
