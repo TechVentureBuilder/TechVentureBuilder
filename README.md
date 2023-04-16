@@ -240,6 +240,11 @@ Here are some ideas to get you started:
 	
 	
 ## Impressive Star Histories
+![Visit Repo](https://github.com/Torantulino/auto-gpt/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=Torantulino/auto-gpt&type=Date)](https://star-history.com/#Torantulino/auto-gpt&Date)
+
+
 ![Visit Repo](https://github.com/acheong08/EdgeGPT/)	
 										   
 [![Star History Chart](https://api.star-history.com/svg?repos=acheong08/EdgeGPT&type=Date)](https://star-history.com/#acheong08/EdgeGPT&Date)
