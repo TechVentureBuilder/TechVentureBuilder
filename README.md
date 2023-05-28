@@ -241,6 +241,12 @@ Here are some ideas to get you started:
 	
 ## Impressive Star Histories
 
+
+![Visit Repo](https://github.com/e-johnstonn/BriefGPT/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=StanfordBDHG/BriefGPT&type=Date)](https://star-history.com/#StanfordBDHG/BriefGPT&Date)
+
+
 ![Visit Repo](https://github.com/StanfordBDHG/HealthGPT/)	
 										   
 [![Star History Chart](https://api.star-history.com/svg?repos=StanfordBDHG/HealthGPT&type=Date)](https://star-history.com/#StanfordBDHG/HealthGPT&Date)
