@@ -244,7 +244,7 @@ Here are some ideas to get you started:
 
 ![Visit Repo](https://github.com/e-johnstonn/BriefGPT/)	
 										   
-[![Star History Chart](https://api.star-history.com/svg?repos=StanfordBDHG/BriefGPT&type=Date)](https://star-history.com/#StanfordBDHG/BriefGPT&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=e-johnstonn/BriefGPT&type=Date)](https://star-history.com/#e-johnstonn/BriefGPT&Date)
 
 
 ![Visit Repo](https://github.com/StanfordBDHG/HealthGPT/)	
