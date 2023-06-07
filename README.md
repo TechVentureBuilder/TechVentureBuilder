@@ -241,6 +241,11 @@ Here are some ideas to get you started:
 	
 ## Impressive Star Histories
 
+																		   
+![Visit Repo](https://github.com/PromtEngineer/localGPT/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=PromtEngineer/localGPT&type=Date)](https://star-history.com/#PromtEngineer/localGPT&Date)
+
 
 ![Visit Repo](https://github.com/e-johnstonn/BriefGPT/)	
 										   
