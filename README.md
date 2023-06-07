@@ -241,6 +241,11 @@ Here are some ideas to get you started:
 	
 ## Impressive Star Histories
 
+
+![Visit Repo](https://github.com/StanGirard/quivr/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=StanGirard/quivr&type=Date)](https://star-history.com/#StanGirard/quivr&Date)
+																		   
 																		   
 ![Visit Repo](https://github.com/PromtEngineer/localGPT/)	
 										   
