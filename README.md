@@ -242,6 +242,11 @@ Here are some ideas to get you started:
 ## Impressive Star Histories
 
 
+![Visit Repo](https://github.com/e-johnstonn/SalesCopilot/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=e-johnstonn/SalesCopilot&type=Date)](https://star-history.com/#e-johnstonn/SalesCopilot&Date)
+
+
 ![Visit Repo](https://github.com/iv-org/invidious/)	
 										   
 [![Star History Chart](https://api.star-history.com/svg?repos=iv-org/invidious&type=Date)](https://star-history.com/#iv-org/invidious&Date)
