@@ -243,6 +243,11 @@ Here are some ideas to get you started:
 
 
 
+![Visit Repo](https://github.com/assafelovic/gpt-researcher/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=assafelovic/gpt-researcher&type=Date)](https://star-history.com/#assafelovic/gpt-researcher&Date)
+
+
 ![Visit Repo](https://github.com/ixahmedxi/noodle/)	
 										   
 [![Star History Chart](https://api.star-history.com/svg?repos=ixahmedxi/noodle&type=Date)](https://star-history.com/#ixahmedxi/noodle&Date)
