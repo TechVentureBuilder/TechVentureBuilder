@@ -243,6 +243,10 @@ Here are some ideas to get you started:
 
 
 
+![Visit Repo](https://github.com/Shaunwei/RealChar/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=Shaunwei/RealChar&type=Date)](https://star-history.com/#Shaunwei/RealChar&Date)
+
 
 ![Visit Repo](https://github.com/danswer-ai/danswer/)	
 										   
