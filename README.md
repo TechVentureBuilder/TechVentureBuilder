@@ -243,6 +243,11 @@ Here are some ideas to get you started:
 
 
 
+![Visit Repo](https://github.com/llSourcell/DoctorGPT/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=llSourcell/DoctorGPT&type=Date)](https://star-history.com/#llSourcell/DoctorGPT&Date)
+
+
 ![Visit Repo](https://github.com/Shaunwei/RealChar/)	
 										   
 [![Star History Chart](https://api.star-history.com/svg?repos=Shaunwei/RealChar&type=Date)](https://star-history.com/#Shaunwei/RealChar&Date)
