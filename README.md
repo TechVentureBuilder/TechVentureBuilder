@@ -243,6 +243,11 @@ Here are some ideas to get you started:
 
 
 
+![Visit Repo](https://github.com/LouisShark/chatgpt_system_prompt/)	
+										   
+[![Star History Chart](https://api.star-history.com/svg?repos=LouisShark/chatgpt_system_prompt&type=Date)](https://star-history.com/#LouisShark/chatgpt_system_prompt&Date)
+
+
 ![Visit Repo](https://github.com/llSourcell/DoctorGPT/)	
 										   
 [![Star History Chart](https://api.star-history.com/svg?repos=llSourcell/DoctorGPT&type=Date)](https://star-history.com/#llSourcell/DoctorGPT&Date)
