@@ -278,11 +278,6 @@ Here are some ideas to get you started:
 [![Star History Chart](https://api.star-history.com/svg?repos=h2oai/h2ogpt&type=Date)](https://star-history.com/#h2oai/h2ogpt&Date)
 
 
-![Visit Repo](https://github.com/e-johnstonn/SalesCopilot/)	
-										   
-[![Star History Chart](https://api.star-history.com/svg?repos=e-johnstonn/SalesCopilot&type=Date)](https://star-history.com/#e-johnstonn/SalesCopilot&Date)
-
-
 ![Visit Repo](https://github.com/iv-org/invidious/)	
 										   
 [![Star History Chart](https://api.star-history.com/svg?repos=iv-org/invidious&type=Date)](https://star-history.com/#iv-org/invidious&Date)
@@ -301,11 +296,6 @@ Here are some ideas to get you started:
 ![Visit Repo](https://github.com/PromtEngineer/localGPT/)	
 										   
 [![Star History Chart](https://api.star-history.com/svg?repos=PromtEngineer/localGPT&type=Date)](https://star-history.com/#PromtEngineer/localGPT&Date)
-
-
-![Visit Repo](https://github.com/e-johnstonn/BriefGPT/)	
-										   
-[![Star History Chart](https://api.star-history.com/svg?repos=e-johnstonn/BriefGPT&type=Date)](https://star-history.com/#e-johnstonn/BriefGPT&Date)
 
 
 ![Visit Repo](https://github.com/StanfordBDHG/HealthGPT/)	
